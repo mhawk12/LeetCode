@@ -13,6 +13,7 @@
 + Problem 16 : 3Sum Closest(ThreeSumClosest.java)
 + Problem 19 : Remove Nth Node From End of List(RemoveNthNode.java)
 + Problem 24 : Swap Nodes in Pairs(SwapNodes.java)
++ Problem 26 : Remove Duplicates from Sorted Array(RemoveDuplicates.java)
 + Problem 53 : Maximum Subarray(MaximumSubarray.java)
 + Problem 64 : Minimum Path Sum (MinimumSumPath.java)
 + Problem 91 : Decode Ways(DecodeWays.java)
