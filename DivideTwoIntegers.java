@@ -22,6 +22,10 @@ public class DivideTwoIntegers {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
+        int dividend = Integer.parseInt(br.readLine());
+        int divisor = Integer.parseInt(br.readLine());
+
+        System.out.println(divide(dividend, divisor));
 
     }
 }
