@@ -16,6 +16,7 @@
 + Problem 26 : Remove Duplicates from Sorted Array(RemoveDuplicates.java)
 + Problem 27 : Remove Element(Remove.java)
 + Problem 31 : Next Permutation(NextPermuation.java)
++ Problem 33 : Search in Rotated Sorted Array(RotatedArray.java)
 + Problem 53 : Maximum Subarray(MaximumSubarray.java)
 + Problem 64 : Minimum Path Sum (MinimumSumPath.java)
 + Problem 91 : Decode Ways(DecodeWays.java)
