@@ -26,7 +26,7 @@ public class DistinctSequences {
 
         int[][] dp = new int[s.length() + 1][t.length() + 1];
 
-        for (int i = 0; i < s.length(); i++)
+        for (int i = 0; i <= s.length(); i++)
             dp[i][0] = 1;
 
         for (int i = 1; i <= s.length(); i++) {
