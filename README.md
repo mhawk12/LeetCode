@@ -14,6 +14,7 @@
 + Problem 23 : Merge k Sorted Lists(MergeKSortedLists.java)
 + Problem 19 : Remove Nth Node From End of List(RemoveNthNode.java)
 + Problem 24 : Swap Nodes in Pairs(SwapNodes.java)
++ Problem 25 : Reverse Nodes in k-Group(ReverseNodeK.java)
 + Problem 26 : Remove Duplicates from Sorted Array(RemoveDuplicates.java)
 + Problem 27 : Remove Element(Remove.java)
 + Problem 31 : Next Permutation(NextPermuation.java)
