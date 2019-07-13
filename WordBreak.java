@@ -21,7 +21,6 @@ public class WordBreak {
         dp[0] = true;
 
         for (int i = 1; i <= s.length(); i++) {
-            String t = s.substring(0, i);
             if (set.contains(s.substring(0, i))) {
                 dp[i] = true;
                 continue;
