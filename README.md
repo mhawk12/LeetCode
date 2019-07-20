@@ -39,6 +39,7 @@
 + Problem 125 : Valid Palindrome (ValidPalindrome0.java)
 + Problem 132 : Palindrome Partitioning II (PalindromePartioning2.java)
 + Problem 139 : Word Break(WordBreak.java)
++ Problem 166 : Fraction to Recurring Decimal(FractionRecurring.java)
 + Problem 211 : Add and Search Word - Data structure design(WordDictionary.java)
 + Problem 220 : Contains Duplicate III (ContainsDuplicate3.java)
 + Problem 236 : Lowest Common Ancestor of a Binary Tree(LCABinaryTree.java)
