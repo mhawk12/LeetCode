@@ -61,6 +61,6 @@ public class FractionRecurring {
 
     public static void main(String args[]) {
 
-        System.out.println(fractionToDecimal(1, 2));
+        System.out.println(fractionToDecimal(1, 214748364));
     }
 }
