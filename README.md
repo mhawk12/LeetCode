@@ -40,6 +40,7 @@
 + Problem 123 : Best Time to Buy and Sell Stock(BuyAndSellStock3.java)
 + Problem 125 : Valid Palindrome (ValidPalindrome0.java)
 + Problem 132 : Palindrome Partitioning II (PalindromePartioning2.java)
++ Problem 138 : Copy List with Random Pointer (RandomPointer.java)
 + Problem 139 : Word Break(WordBreak.java)
 + Problem 166 : Fraction to Recurring Decimal(FractionRecurring.java)
 + Problem 211 : Add and Search Word - Data structure design(WordDictionary.java)
