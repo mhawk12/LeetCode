@@ -27,6 +27,7 @@
 + Problem 37 : Sudoku Solver(SudokuSover.java)
 + Problem 39 : Combination SUum (CombinationSum.java)
 + Problem 49 : Group Anagrams(GroupAnagrams.java)
++ Problem 50 : Power(x, n) (Power.java)
 + Problem 51 : N-Queens(NQueens.java)
 + Problem 53 : Maximum Subarray(MaximumSubarray.java)
 + Problem 64 : Minimum Path Sum (MinimumSumPath.java)
