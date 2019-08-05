@@ -56,6 +56,7 @@
 + Problem 300 : Longest Increasing Subsequence (LIS.java)
 + Problem 392 : Is Subsequence(IsSubsequnce.java)
 + Problem 415 : Add Strings
++ Problem 560 : Subarray Sum Equals K (SubarraySumK.java);
 + Problem 680 : Valid Palindrome II(ValidPalindrome.java)
 + Problem 763 : Partition Labels (PartitionLabels.java)
 + Problem 797 : Reorganize String (ReorganizeSting.java)
